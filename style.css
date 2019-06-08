@@ -12,7 +12,7 @@ body {
   background-size: cover;
    background-repeat: no-repeat;
    background-size: 100%;
-  font-family: didact-gothic, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: white;
   text-shadow: 1em;
   margin: 20px;
@@ -229,7 +229,7 @@ body {
    background-image: url("https://images.unsplash.com/flagged/photo-1559762731-d0dd66ab7e10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
    background-repeat: no-repeat;
    background-size: 100%;
-  font-family: didact-gothic, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   color: white;
   text-shadow: 1em;
   margin: 20px;
@@ -249,7 +249,6 @@ body {
     }
 
     .menuDrop {
-        font-family: 'Orbitron', sans-seri;
         text-align: right;
     }
 
@@ -268,7 +267,7 @@ body {
    background-image: url("https://images.unsplash.com/flagged/photo-1559762731-d0dd66ab7e10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
    background-repeat: no-repeat;
    background-size: 100%;
-  font-family: didact-gothic, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   color: white;
   text-shadow: 1em;
   margin: 20px;
@@ -303,7 +302,7 @@ body {
    background-image: url("https://images.unsplash.com/flagged/photo-1559762731-d0dd66ab7e10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
    background-repeat: no-repeat;
    background-size: 100%;
-  font-family: didact-gothic, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   color: white;
   text-shadow: 1em;
   margin: 20px;
